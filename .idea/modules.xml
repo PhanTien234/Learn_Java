@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Democollection/Democollection.iml" filepath="$PROJECT_DIR$/Democollection/Democollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance_OOP/Inheritance_OOP.iml" filepath="$PROJECT_DIR$/Inheritance_OOP/Inheritance_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 1/Lab 1.iml" filepath="$PROJECT_DIR$/Lab 1/Lab 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 2/Lab 2.iml" filepath="$PROJECT_DIR$/Lab 2/Lab 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 4/Lab 4.iml" filepath="$PROJECT_DIR$/Lab 4/Lab 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student_Object/Student_Object.iml" filepath="$PROJECT_DIR$/Student_Object/Student_Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nhap 1/nhap 1.iml" filepath="$PROJECT_DIR$/nhap 1/nhap 1.iml" />
+    </modules>
+  </component>
+</project>
